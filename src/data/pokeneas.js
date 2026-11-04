@@ -41,19 +41,19 @@ const pokeneas = [
   },
   {
     id: 6,
-    nombre: "Mazamorrín",
-    altura: 0.7,
-    habilidad: "Calma con panela",
-    imagen: "mazamorrin.png",
-    frase: "La dulzura no está en la panela, está en quien la parte para compartir."
+    nombre: "Vomitrón",
+    altura: 1.3,
+    habilidad: "Vómito ácido",
+    imagen: "vomitron.png",
+    frase: "Cuando la farra se pone muy dura, es cuando brilla mi poder."
   },
   {
     id: 7,
-    nombre: "Guacamayo Paisa",
-    altura: 0.9,
-    habilidad: "Vuelo sobre el valle",
-    imagen: "guacamayo-paisa.png",
-    frase: "Desde arriba las montañas no encierran el valle: lo abrazan."
+    nombre: "Barril Sin Fondo",
+    altura: 1.9,
+    habilidad: "Trago infinito",
+    imagen: "barril-sin-fondo.png",
+    frase: "Nunca digas que es el último, que siempre cabe uno más."
   },
   {
     id: 8,
