@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><%= pokenea.nombre %> | Pokeneas</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <main class="card">
+    <img class="pokenea" src="<%= imageUrl %>" alt="<%= pokenea.nombre %>">
+    <h1><%= pokenea.nombre %></h1>
+    <blockquote>“<%= pokenea.frase %>”</blockquote>
+    <p class="container">Contenedor: <code><%= containerId %></code></p>
+    <nav class="links">
+      <a class="button" href="/pokenea">Otro Pokenea</a>
+      <a class="button secondary" href="/">Inicio</a>
+    </nav>
+  </main>
+</body>
+</html>
