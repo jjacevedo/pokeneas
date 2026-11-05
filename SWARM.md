@@ -7,7 +7,7 @@ Prerrequisitos: la imagen `<USUARIO>/pokeneas:latest` ya está en DockerHub (rev
 
 ## 1. Bucket de S3 con las imágenes
 
-Consola: S3 > Create bucket > nombre `<BUCKET>` (único), región us-east-1. Desmarcar **Block all public access** y confirmar.
+Consola: S3 > Create bucket > nombre `<BUCKET>` (único), región us-east-2. Desmarcar **Block all public access** y confirmar.
 
 Política del bucket (Permissions > Bucket policy), solo lectura:
 
